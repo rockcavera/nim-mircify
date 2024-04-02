@@ -4,7 +4,6 @@
 ## See below the procedures that mircify.dll has and how to use them.
 ##
 ## This DLL is inspired by `spoton.dll<https://github.com/turbosmurfen/spoton>`_.
-
 import std/strutils
 
 import pkg/mdlldk

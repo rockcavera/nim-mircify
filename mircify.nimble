@@ -10,4 +10,4 @@ bin           = @["mircify"]
 
 # Dependencies
 
-requires "nim >= 2.1.1", "mdlldk >= 0.2.0", "winim >= 3.9.2"
+requires "nim >= 2.0.0", "mdlldk >= 0.2.0", "winim >= 3.9.2"
