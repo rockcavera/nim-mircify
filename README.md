@@ -2,7 +2,7 @@
 DLL to be used with mIRC and obtain Spotify status without needing to access the API
 
 ## Download
-Download the [latest release](releases/latest)
+Download the [latest release](https://github.com/rockcavera/nim-mircify/releases/latest)
 
 ## Procedures
 List of mircify.dll procedures
